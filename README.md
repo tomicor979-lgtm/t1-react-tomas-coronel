@@ -10,6 +10,12 @@ Portfolio personal de una sola página. Presenta a Tomas Coronel, sus intereses 
 - CSS responsive
 - Lucide React para iconos
 
+El proyecto se inició con `npm create vite@latest` usando la plantilla React.
+
+## Referencia visual
+
+La estructura general de portfolio personal toma como referencia **Cleanfolio**, una plantilla React publicada bajo licencia MIT: https://github.com/rjshkhr/cleanfolio. Se adaptaron sus ideas de presentación personal, habilidades y proyectos al contenido de Tomas Coronel y a los requisitos de este trabajo; los componentes y estilos de esta entrega están implementados para este proyecto.
+
 ## Instalación y ejecución
 
 Necesitás Node.js instalado. Desde esta carpeta, ejecutá:
